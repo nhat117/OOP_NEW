@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class Ex2 {
-
     public static void countchar (int [] array){
         int count = 0;
         for (int i = 1; i <= 100; i ++) {
