@@ -1,6 +1,6 @@
 package WK2;
 
-import org.jetbrains.annotations.NotNull;
+
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -16,8 +16,7 @@ public class DistinctNumber {
         printDistinctNumber(chkDistinctNumber(arr));
     }
 
-    public static @NotNull
-    ArrayList<Integer> chkDistinctNumber(int[] arrInput) {
+    public static ArrayList<Integer> chkDistinctNumber(int[] arrInput) {
         int count = 0;
         ArrayList<Integer> distinct = new ArrayList<Integer>();
         for (int i = 1; i < 100; i++) {
