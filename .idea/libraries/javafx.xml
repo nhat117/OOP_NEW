@@ -35,6 +35,10 @@
       <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
       <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
       <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
     </CLASSES>
     <JAVADOC />
     <NATIVE>
@@ -55,8 +59,14 @@
       <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
       <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
       <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
     </NATIVE>
     <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
       <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
       <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
       <root url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" />
@@ -125,6 +135,14 @@
     <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" />
     <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" />
     <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
     <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
     <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" type="SOURCES" />
     <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/javafx-sdk-16/lib" recursive="false" type="SOURCES" />

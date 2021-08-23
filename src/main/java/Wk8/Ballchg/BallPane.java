@@ -45,7 +45,7 @@ public class BallPane extends Pane {
     public ArrayList<Button> getListButt() {
         return listButt;
     }
-
+//Action pf the vlaa
     public void moveUp() {
         if (cir.getCenterY() - cir.getRadius() - 10 < 0)
             return;
