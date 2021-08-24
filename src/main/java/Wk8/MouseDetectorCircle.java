@@ -1,4 +1,6 @@
 package Wk8;
+
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.Pane;
@@ -7,7 +9,7 @@ import javafx.scene.shape.Circle;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-public class MouseDetectorCircle extends Application{
+public class MouseDetectorCircle extends Application {
     public static void main(String[] args) {
         launch(args);
     }
@@ -33,7 +35,7 @@ public class MouseDetectorCircle extends Application{
         pane.setOnMouseMoved(e -> {
             //Clear the pane
             pane.getChildren().clear();
-            Text txt = new Text();
+            javafx.scene.text.Text txt = new Text();
             txt.setX(e.getX());
             txt.setY(e.getY());
             if(cir.contains(e.getX(), e.getY())) {
