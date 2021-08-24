@@ -71,17 +71,15 @@ public class DragPoint extends Application {
         return text;
     }
     //Handling the event
-    public void  Action(Circle circle1, Circle circle2) {
-        circle1.setOnMousePressed(mousePressEventHandler());
-        circle1.setOnMouseDragged(mouseDragEventHandler());
-        circle2.setOnMousePressed(mousePressEventHandler());
-        circle2.setOnMouseDragged(mouseDragEventHandler());
-    }
-    //Mouse drag event handdler
-    public EventHandler mouseDragEventHandler(){
-
-    }
-
-
+//    public void  Action(Circle circle1, Circle circle2) {
+//        circle1.setOnMousePressed(mousePressEventHandler());
+//        circle1.setOnMouseDragged(mouseDragEventHandler());
+//        circle2.setOnMousePressed(mousePressEventHandler());
+//        circle2.setOnMouseDragged(mouseDragEventHandler());
+//    }
+//    //Mouse drag event handdler
+//    public EventHandler mouseDragEventHandler(){
+//
+//    }
 
 }
