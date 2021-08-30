@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Wk9.Ex3.sample.Controller">
+   <children>
+      <Circle fx:id="cir1" fill="DODGERBLUE" centerX="200.0" centerY="213.0" onMouseDragged="#cirMove" radius="15.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="cir2" fill="DODGERBLUE" centerX="416.0" centerY="214.0" onMouseDragged="#cirMove" radius="15.0" stroke="BLACK" strokeType="INSIDE" />
+      <Label fx:id="lab" layoutX="294.0" layoutY="190.0" text="Label" />
+      <Line fx:id="line" endX="401.0" endY="213.99998474121094" startX="215.0" startY="213.0" />
+   </children>
+</Pane>

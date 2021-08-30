@@ -1,0 +1,11 @@
+Assessment Details
+Create a separate JavaFX project in IntelliJ for each question.
+
+Question 1 (40 pts)
+Write a JavaFX program to display the text Java is cool! at (50, 50) with text size 40 using the font Arial and font weight bold. The text color is changed from blue to red and vice versa whenever a mouse is clicked. In addition, when the Up-arrow key is pressed, the text size will increase by 5 if the new text size is not larger than 80. Similarly, when the Down-arrow key is pressed, the text size will decrease by 5 if the new text size is not smaller than 10. Nothing will happen when any other keys are pressed.
+
+Question 2 (60 pts)
+Write a JavaFX program to pick and display three cards randomly selected from a standard deck of 52 cards (Links to an external site.) as shown in below figure. The program also calculates and shows the total points of the cards.
+
+Jack, Queen, and King have 10 points while other cards have the points as shown in the cards. "Deal" picks another three cards randomly and "Exit" simply quits the program. You are provided with the card image files named as 1.png, 2.png, …, 52.png in this cards.zip  downloadfile.
+
